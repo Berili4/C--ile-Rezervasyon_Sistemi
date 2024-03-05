@@ -8,6 +8,13 @@ Admin Panelinde yapılabilecek işlemler: Firma ekleme,silme. Hizmet bedeli beli
 ![Ekran görüntüsü 2023-12-06 113850](https://github.com/Berili4/C--ile-Rezervasyon_Sistemi/assets/117026945/19a867cb-3f44-495c-9ca9-0181662f7050)
 
 
+Firma Paneli İşlemleri: Kullanıcı adı(A) şifre(a) 
+Yapılabilecek işlemler: Araç ekleme silme, sefer ekleme silme.
+
+![Ekran görüntüsü 2023-12-06 113512](https://github.com/Berili4/C--ile-Rezervasyon_Sistemi/assets/117026945/505ab069-cca5-47e6-bc4a-89665516f8c1)
+
+
+
 Bilet AL Panelinde yapılabilecek işlemler: Yolcu sayısı ve yolculuk tarihi belirleme, kalkış ve varış noktası seçme
 
 
